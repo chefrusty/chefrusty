@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @chefrusty
-- 👀 I’m interested in ...learning Blockchain Programming
-- 🌱 I’m currently learning ...at IvanOnTech
-- 💞️ I’m looking to collaborate on ...a future project
-- 📫 How to reach me ...
+- 👀 I’m interested in Blockchain DeFAI and some Programming
+- 🌱 Working on SnowyDeFai built with ElizaOS and Edwin... half way thru developement
 
 <!---
 chefrusty/chefrusty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
